@@ -1,6 +1,6 @@
 # H4XOR_NEWS
  
-What are we learning?
+## What are we learning?
     1. SwiftUI List and Identifiable Protocol
     2. Navigation View to navigate between List and detail view
     3. Advanced State management using the Observer Design Pattern
